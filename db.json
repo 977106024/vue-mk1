@@ -1,0 +1,77 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "[网易新闻]这九段感悟让客店镇到处成为美丽乡村",
+      "url": "http://news.163.com/16/1219/11/C8L5T72J000187VG.html"
+    },
+    {
+      "id": 2,
+      "title": "黄仙洞和娘娘寨之游",
+      "url": "http://www.mafengwo.cn/i/2883275.html"
+    },
+    {
+      "id": 3,
+      "title": "走进客店南庄台 感受纯朴民俗民风",
+      "url": "http://bbs.zxwindow.com/forum.php?mod=viewthread&tid=622218"
+    },
+    {
+      "id": 4,
+      "title": "【湖南长沙】刘先生购买香菇",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 977106024
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "ahong"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
