@@ -17,16 +17,16 @@ export default new Vuex.Store({
   },
   mutations: {
     initState (state, payload) {
-      state.resumeConfig.map((item) => {
-        if (item.type === 'array') {
-          Vue.set(state.resume, item.field, [])
-        } else {
-          Vue.set(state.resume, item.field, {})
-          item.keys.map((key) => {
-            Vue.set(state.resume[item.field], key, '')
-          })
-        }
-      })
+      // state.resumeConfig.map((item) => {
+      //   if (item.type === 'array') {
+      //     Vue.set(state.resume, item.field, [])
+      //   } else {
+      //     Vue.set(state.resume, item.field, {})
+      //     item.keys.map((key) => {
+      //       Vue.set(state.resume[item.field], key, '')
+      //     })
+      //   }
+      // })
       Object.assign(state, payload)  // 拷贝到目标对象state上，相同的属性会覆盖？
     },
     setUser (state, payload) {
