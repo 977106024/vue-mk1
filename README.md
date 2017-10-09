@@ -7,4 +7,4 @@ npm run dev
 # build for production with minification
 npm run build
 
-![Image text](http://1.ahong9771.applinzi.com/works/img/1.png)
+![](http://1.ahong9771.applinzi.com/works/img/1.png)
